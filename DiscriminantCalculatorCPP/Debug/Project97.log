@@ -1,7 +1,0 @@
-﻿D:\Program Files\Microsoft Visual Studio\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project97.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Source.cpp
-C:\Users\Eray Şahin\source\repos\Project97\Source.cpp(97,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Eray Şahin\source\repos\Project97\Source.cpp(97,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Eray Şahin\source\repos\Project97\Source.cpp(97,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Eray Şahin\source\repos\Project97\Source.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
-  Project97.vcxproj -> C:\Users\Eray Şahin\source\repos\Project97\Debug\DiscriminantCalculator.exe
