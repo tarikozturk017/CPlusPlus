@@ -1,11 +1,4 @@
-/***************************************
-Student Name: Eray Sahin
-Student E-mail: esahin2@myseneca.ca
-Student ID: 156387201
-Date: 09/15/2022
-I have done all the coding by myselfand only copied the code that
-my professor provided to complete my workshops and assignments.
-**************************************/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>
 #include <iostream>
