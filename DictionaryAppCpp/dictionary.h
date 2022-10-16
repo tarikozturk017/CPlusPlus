@@ -1,9 +1,4 @@
-/*Student Name : Eray Sahin
-Student ID: 156387201
-Student E-mail Address: esahin2@myseneca.ca
-Date: 09-18-2022
-I have done all the coding by myself and only copied the
-code that my professor provided to complete my workshops and assignments.*/
+
 #ifndef SDDS_DICTIONARY_H 
 #define SDDS_DICTIONARY_H
 namespace sdds
