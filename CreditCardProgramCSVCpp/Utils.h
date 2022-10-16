@@ -1,7 +1,5 @@
 /***********************************************************************
-// OOP244 Workshop 2: cString funtions to avoid including string header
-// file
-//
+
 // File	Utils.cpp
 // Version 1.0
 // Date	2022/09/17
