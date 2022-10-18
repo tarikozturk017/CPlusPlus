@@ -51,16 +51,16 @@ string returnString() {
 }
 
 int calculateDiscriminant(int a, int b, int c) {
-	int sonuc;
+	int result;
 
-	sonuc = b * b - (4 * a * c);
-	return sonuc;
+	result = b * b - (4 * a * c);
+	return result;
 }
 
 vector<double> discResult(int a, int b, int c) {
-	int sonuc = calculateDiscriminant(a, b, c);
+	int result = calculateDiscriminant(a, b, c);
 	vector<double> returnValue;
-	if (sonuc > 0) {
+	if (result > 0) {
 		
 		double root1 = (-b + sqrt(calculateDiscriminant(a,b,c)) / 2 * a);
 		double root2 = (-b - sqrt(calculateDiscriminant(a,b,c)) / 2 * a);
@@ -68,7 +68,7 @@ vector<double> discResult(int a, int b, int c) {
 		returnValue.push_back(root2);
 
 	}
-	else if (sonuc == 0) {
+	else if (result == 0) {
 		double root1;
 		root1 = -b / 2 * a;
 		returnValue.push_back(root1);
